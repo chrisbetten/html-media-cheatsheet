@@ -23,7 +23,7 @@ h2 span{
 
 .html-code span {
     font-family: monospace;
-    color: darkslategray;
+    color: purple;
     background-color: lavender;
 }
 
@@ -44,7 +44,7 @@ table {
 }
 
 td {
-    border-top: 1px solid lightsalmon;
+    border-top: 1px solid purple;
     display: table-cell;
     vertical-align: inherit;
     padding: 1px;
