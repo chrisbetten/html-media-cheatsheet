@@ -28,7 +28,7 @@ h2 span{
 }
 
 table {
-    border: 1px solid darkslategray;
+    border: 1px solid purple;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.07);
     border-spacing: 2px;
     border-collapse: separate;
