@@ -1,0 +1,55 @@
+body {
+    background-color: snow;
+}
+
+h1,
+h3,
+table,
+th,
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: purple;
+}
+
+p span {
+    background-color: lightsalmon;
+}
+
+h2 span{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: purple;
+    background-color: thistle;
+}
+
+.html-code span {
+    font-family: monospace;
+    color: darkslategray;
+    background-color: thistle;
+}
+
+table {
+    border: 1px solid darkslategray;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.07);
+    border-spacing: 2px;
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal;
+}
+
+td {
+    border-top: 1px solid lightsalmon;
+    display: table-cell;
+    vertical-align: inherit;
+    padding: 1px;
+}
+
+th {
+    background-color: pink;
+}
